@@ -1,5 +1,5 @@
 :root {
-    --color: #8A153A;
+    --color: #750f30;
 }
 
 
@@ -13,7 +13,7 @@ body {
 }
 
 a {
-    color: #a71d37;
+    color: #5c0d1c;
     text-decoration: none;
     position: relative;
 }
@@ -25,7 +25,7 @@ a::before {
     width: 0;
     left: 0;
     bottom: 0;
-    background: #a71d37;
+    background: #5c0d1c;
     transition: width .7s ease;
 }
 
