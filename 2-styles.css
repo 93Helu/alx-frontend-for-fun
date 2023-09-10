@@ -53,7 +53,7 @@
 }
 
 .toggle-cb:checked + .toggle-label .toggle-inner {
-    background-color: #e1013c;
+    background-color: #e60540;
 }
 
 .toggle-cb:checked + .toggle-label .toggle-inner::before {
